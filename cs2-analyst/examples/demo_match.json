@@ -1,0 +1,63 @@
+{
+  "_comment": "ДЕМО: вымышленные команды и синтетические цифры только для проверки работы инструмента. Это НЕ реальная статистика.",
+  "event": "Demo Cup (вымышленный)",
+  "date": "2026-11-06",
+  "best_of": 3,
+  "lan": true,
+  "map_pool": ["Ancient", "Anubis", "Dust2", "Inferno", "Mirage", "Nuke", "Train"],
+  "h2h": [{"date": "2026-08-10", "winner": 1}, {"date": "2026-04-02", "winner": 2}],
+  "team1": {
+    "name": "Alpha Demo",
+    "rank": 4, "points": 640,
+    "lan_winrate": 0.64, "lan_matches": 25,
+    "pistol_winrate": 0.54,
+    "players": [
+      {"name": "a1", "rating": 1.18}, {"name": "a2", "rating": 1.09}, {"name": "a3", "rating": 1.05},
+      {"name": "a4", "rating": 1.02}, {"name": "a5", "rating": 0.97}
+    ],
+    "recent_matches": [
+      {"date": "2026-11-01", "opponent": "X", "opponent_rank": 7, "won": true},
+      {"date": "2026-10-28", "opponent": "Y", "opponent_rank": 2, "won": false},
+      {"date": "2026-10-20", "opponent": "Z", "opponent_rank": 15, "won": true},
+      {"date": "2026-10-05", "opponent": "W", "opponent_rank": 9, "won": true},
+      {"date": "2026-09-14", "opponent": "V", "opponent_rank": 1, "won": false},
+      {"date": "2026-08-30", "opponent": "U", "opponent_rank": 22, "won": true}
+    ],
+    "maps": {
+      "Mirage":  {"played": 18, "winrate": 0.67, "ct_round_win": 0.55, "t_round_win": 0.49, "pick_rate": 0.45, "ban_rate": 0.02},
+      "Inferno": {"played": 12, "winrate": 0.58, "ct_round_win": 0.56, "t_round_win": 0.46, "pick_rate": 0.20, "ban_rate": 0.05},
+      "Nuke":    {"played": 9,  "winrate": 0.44, "ct_round_win": 0.57, "t_round_win": 0.42, "pick_rate": 0.05, "ban_rate": 0.25},
+      "Ancient": {"played": 10, "winrate": 0.60, "ct_round_win": 0.53, "t_round_win": 0.48, "pick_rate": 0.15, "ban_rate": 0.05},
+      "Anubis":  {"played": 4,  "winrate": 0.25, "ct_round_win": 0.48, "t_round_win": 0.47, "pick_rate": 0.0,  "ban_rate": 0.55},
+      "Dust2":   {"played": 8,  "winrate": 0.50, "ct_round_win": 0.51, "t_round_win": 0.50, "pick_rate": 0.10, "ban_rate": 0.05},
+      "Train":   {"played": 6,  "winrate": 0.50, "ct_round_win": 0.58, "t_round_win": 0.43, "pick_rate": 0.05, "ban_rate": 0.08}
+    }
+  },
+  "team2": {
+    "name": "Bravo Demo",
+    "rank": 9, "points": 380,
+    "lan_winrate": 0.55, "lan_matches": 20,
+    "pistol_winrate": 0.49,
+    "days_since_roster_change": 21,
+    "players": [
+      {"name": "b1", "rating": 1.12}, {"name": "b2", "rating": 1.06}, {"name": "b3", "rating": 1.01},
+      {"name": "b4", "rating": 0.98}, {"name": "b5", "rating": 0.95, "is_standin": false}
+    ],
+    "recent_matches": [
+      {"date": "2026-11-02", "opponent": "Q", "opponent_rank": 5, "won": true},
+      {"date": "2026-10-25", "opponent": "R", "opponent_rank": 12, "won": true},
+      {"date": "2026-10-11", "opponent": "S", "opponent_rank": 3, "won": false},
+      {"date": "2026-09-27", "opponent": "T", "opponent_rank": 18, "won": false},
+      {"date": "2026-09-01", "opponent": "P", "opponent_rank": 25, "won": true}
+    ],
+    "maps": {
+      "Mirage":  {"played": 10, "winrate": 0.50, "ct_round_win": 0.54, "t_round_win": 0.47, "pick_rate": 0.10, "ban_rate": 0.15},
+      "Inferno": {"played": 14, "winrate": 0.64, "ct_round_win": 0.57, "t_round_win": 0.47, "pick_rate": 0.40, "ban_rate": 0.02},
+      "Nuke":    {"played": 11, "winrate": 0.55, "ct_round_win": 0.58, "t_round_win": 0.44, "pick_rate": 0.25, "ban_rate": 0.05},
+      "Ancient": {"played": 5,  "winrate": 0.40, "ct_round_win": 0.50, "t_round_win": 0.46, "pick_rate": 0.05, "ban_rate": 0.40},
+      "Anubis":  {"played": 7,  "winrate": 0.57, "ct_round_win": 0.52, "t_round_win": 0.48, "pick_rate": 0.10, "ban_rate": 0.10},
+      "Dust2":   {"played": 6,  "winrate": 0.33, "ct_round_win": 0.50, "t_round_win": 0.46, "pick_rate": 0.0,  "ban_rate": 0.25},
+      "Train":   {"played": 3,  "winrate": 0.33, "ct_round_win": 0.55, "t_round_win": 0.42, "pick_rate": 0.0,  "ban_rate": 0.10}
+    }
+  }
+}

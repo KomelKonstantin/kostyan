@@ -1,0 +1,17 @@
+{
+  "П1": 1.55,
+  "П2": 2.45,
+  "handicap:team1:-1.5": 2.60,
+  "handicap:team2:+1.5": 1.48,
+  "total_maps:over:2.5": 2.05,
+  "total_maps:under:2.5": 1.75,
+  "score:2-0": 2.60,
+  "score:2-1": 3.60,
+  "score:1-2": 4.80,
+  "score:0-2": 5.50,
+  "map1:team1": 1.50,
+  "map1:team2": 2.55,
+  "map1 ТБ 21.5": 1.90,
+  "map1 ТМ 21.5": 1.85,
+  "map1:overtime:yes": 7.50
+}
