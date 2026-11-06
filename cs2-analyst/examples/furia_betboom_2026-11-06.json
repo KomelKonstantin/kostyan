@@ -1,0 +1,686 @@
+{
+ "_comment": "Собрано из открытого API bo3.gg 2026-11-06. Ранги — рейтинг bo3.gg, НЕ HLTV. Игроки, CT/T, pick/ban, пистолеты — нет данных.",
+ "url": "https://bo3.gg/matches/furia-vs-betboom-team-06-11-2026",
+ "event": "Intel Extreme Masters Beijing 2026 — Quarterfinal",
+ "date": "2026-11-06",
+ "best_of": 3,
+ "lan": true,
+ "h2h": [
+  {
+   "date": "2026-10-29",
+   "winner": 1
+  },
+  {
+   "date": "2026-10-18",
+   "winner": 1
+  },
+  {
+   "date": "2026-10-14",
+   "winner": 1
+  },
+  {
+   "date": "2026-10-03",
+   "winner": 1
+  },
+  {
+   "date": "2026-06-13",
+   "winner": 1
+  },
+  {
+   "date": "2025-01-19",
+   "winner": 2
+  },
+  {
+   "date": "2024-06-05",
+   "winner": 1
+  }
+ ],
+ "team1": {
+  "name": "FURIA",
+  "rank": 3,
+  "recent_matches": [
+   {
+    "date": "2026-11-04",
+    "opponent": "The MongolZ",
+    "opponent_rank": 17,
+    "won": false,
+    "maps_won": 1,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-11-03",
+    "opponent": "Natus Vincere",
+    "opponent_rank": 13,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 1,
+    "lan": true
+   },
+   {
+    "date": "2026-11-02",
+    "opponent": "FaZe",
+    "opponent_rank": 20,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 1,
+    "lan": true
+   },
+   {
+    "date": "2026-10-31",
+    "opponent": "Nemiga",
+    "opponent_rank": 10,
+    "won": true,
+    "maps_won": 3,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-10-30",
+    "opponent": "MOUZ",
+    "opponent_rank": 1,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 1,
+    "lan": true
+   },
+   {
+    "date": "2026-10-29",
+    "opponent": "BetBoom",
+    "opponent_rank": 6,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 0,
+    "lan": true
+   },
+   {
+    "date": "2026-10-28",
+    "opponent": "Liquid",
+    "opponent_rank": 21,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 0,
+    "lan": true
+   },
+   {
+    "date": "2026-10-27",
+    "opponent": "TYLOO",
+    "opponent_rank": 59,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 0,
+    "lan": true
+   },
+   {
+    "date": "2026-10-26",
+    "opponent": "Spirit",
+    "opponent_rank": 5,
+    "won": false,
+    "maps_won": 1,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-10-25",
+    "opponent": "Natus Vincere",
+    "opponent_rank": 13,
+    "won": false,
+    "maps_won": 0,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-10-24",
+    "opponent": "DENDELE",
+    "opponent_rank": 29,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 0,
+    "lan": true
+   },
+   {
+    "date": "2026-10-18",
+    "opponent": "BetBoom",
+    "opponent_rank": 6,
+    "won": true,
+    "maps_won": 3,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-10-17",
+    "opponent": "Aurora",
+    "opponent_rank": 4,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 0,
+    "lan": true
+   },
+   {
+    "date": "2026-10-15",
+    "opponent": "Legacy",
+    "opponent_rank": 9,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 1,
+    "lan": true
+   },
+   {
+    "date": "2026-10-14",
+    "opponent": "BetBoom",
+    "opponent_rank": 6,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 0,
+    "lan": true
+   },
+   {
+    "date": "2026-10-09",
+    "opponent": "MOUZ",
+    "opponent_rank": 1,
+    "won": false,
+    "maps_won": 0,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-10-07",
+    "opponent": "9z",
+    "opponent_rank": 24,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 0,
+    "lan": true
+   },
+   {
+    "date": "2026-10-06",
+    "opponent": "Aurora",
+    "opponent_rank": 4,
+    "won": false,
+    "maps_won": 1,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-10-05",
+    "opponent": "PARIVISION",
+    "opponent_rank": 16,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 1,
+    "lan": true
+   },
+   {
+    "date": "2026-10-04",
+    "opponent": "MOUZ",
+    "opponent_rank": 1,
+    "won": false,
+    "maps_won": 0,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-10-03",
+    "opponent": "BetBoom",
+    "opponent_rank": 6,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 0,
+    "lan": true
+   },
+   {
+    "date": "2026-09-20",
+    "opponent": "Vitality",
+    "opponent_rank": 2,
+    "won": false,
+    "maps_won": 0,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-09-19",
+    "opponent": "MIBR",
+    "opponent_rank": 19,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 0,
+    "lan": true
+   },
+   {
+    "date": "2026-09-19",
+    "opponent": "MOUZ",
+    "opponent_rank": 1,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 1,
+    "lan": true
+   },
+   {
+    "date": "2026-09-18",
+    "opponent": "Vitality",
+    "opponent_rank": 2,
+    "won": false,
+    "maps_won": 0,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-09-17",
+    "opponent": "MIBR",
+    "opponent_rank": 19,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 1,
+    "lan": true
+   },
+   {
+    "date": "2026-09-11",
+    "opponent": "G2",
+    "opponent_rank": 11,
+    "won": false,
+    "maps_won": 0,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-09-10",
+    "opponent": "Legacy",
+    "opponent_rank": 9,
+    "won": false,
+    "maps_won": 0,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-09-09",
+    "opponent": "PARIVISION",
+    "opponent_rank": 16,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 0,
+    "lan": true
+   },
+   {
+    "date": "2026-09-08",
+    "opponent": "GamerLegion",
+    "opponent_rank": 37,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 1,
+    "lan": true
+   },
+   {
+    "date": "2026-09-04",
+    "opponent": "Vitality",
+    "opponent_rank": 2,
+    "won": false,
+    "maps_won": 1,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-08-31",
+    "opponent": "Spirit",
+    "opponent_rank": 5,
+    "won": false,
+    "maps_won": 0,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-08-28",
+    "opponent": "M80",
+    "opponent_rank": 25,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 0,
+    "lan": true
+   },
+   {
+    "date": "2026-08-26",
+    "opponent": "paiN",
+    "opponent_rank": 53,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 0,
+    "lan": true
+   },
+   {
+    "date": "2026-08-23",
+    "opponent": "Legacy",
+    "opponent_rank": 9,
+    "won": false,
+    "maps_won": 1,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-08-22",
+    "opponent": "FUT",
+    "opponent_rank": 8,
+    "won": false,
+    "maps_won": 1,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-08-20",
+    "opponent": "G2",
+    "opponent_rank": 11,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 1,
+    "lan": true
+   },
+   {
+    "date": "2026-08-19",
+    "opponent": "Aurora",
+    "opponent_rank": 4,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 1,
+    "lan": true
+   },
+   {
+    "date": "2026-08-15",
+    "opponent": "9z",
+    "opponent_rank": 24,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 1,
+    "lan": true
+   },
+   {
+    "date": "2026-08-12",
+    "opponent": "Wildcard",
+    "opponent_rank": 38,
+    "won": true,
+    "maps_won": 1,
+    "maps_lost": 0,
+    "lan": true
+   }
+  ],
+  "maps": {
+   "Inferno": {
+    "played": 12,
+    "winrate": 0.833
+   },
+   "Nuke": {
+    "played": 16,
+    "winrate": 0.625
+   },
+   "Mirage": {
+    "played": 19,
+    "winrate": 0.526
+   },
+   "Dust2": {
+    "played": 18,
+    "winrate": 0.611
+   },
+   "Ancient": {
+    "played": 17,
+    "winrate": 0.412
+   },
+   "Anubis": {
+    "played": 2,
+    "winrate": 0.0
+   },
+   "Cache": {
+    "played": 18,
+    "winrate": 0.611
+   }
+  },
+  "lan_winrate": 0.65,
+  "lan_matches": 40
+ },
+ "team2": {
+  "name": "BetBoom",
+  "rank": 6,
+  "recent_matches": [
+   {
+    "date": "2026-11-04",
+    "opponent": "Liquid",
+    "opponent_rank": 21,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 1,
+    "lan": true
+   },
+   {
+    "date": "2026-11-04",
+    "opponent": "Aurora",
+    "opponent_rank": 4,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 0,
+    "lan": true
+   },
+   {
+    "date": "2026-11-03",
+    "opponent": "MOUZ",
+    "opponent_rank": 1,
+    "won": false,
+    "maps_won": 0,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-11-02",
+    "opponent": "9z",
+    "opponent_rank": 24,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 1,
+    "lan": true
+   },
+   {
+    "date": "2026-10-29",
+    "opponent": "FURIA",
+    "opponent_rank": 3,
+    "won": false,
+    "maps_won": 0,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-10-26",
+    "opponent": "Natus Vincere",
+    "opponent_rank": 13,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 0,
+    "lan": true
+   },
+   {
+    "date": "2026-10-25",
+    "opponent": "Nemiga",
+    "opponent_rank": 10,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 0,
+    "lan": true
+   },
+   {
+    "date": "2026-10-24",
+    "opponent": "Spirit",
+    "opponent_rank": 5,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 1,
+    "lan": true
+   },
+   {
+    "date": "2026-10-18",
+    "opponent": "FURIA",
+    "opponent_rank": 3,
+    "won": false,
+    "maps_won": 2,
+    "maps_lost": 3,
+    "lan": true
+   },
+   {
+    "date": "2026-10-17",
+    "opponent": "Falcons",
+    "opponent_rank": 7,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 1,
+    "lan": true
+   },
+   {
+    "date": "2026-10-16",
+    "opponent": "Legacy",
+    "opponent_rank": 9,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 1,
+    "lan": true
+   },
+   {
+    "date": "2026-10-15",
+    "opponent": "PARIVISION",
+    "opponent_rank": 16,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 1,
+    "lan": true
+   },
+   {
+    "date": "2026-10-14",
+    "opponent": "FURIA",
+    "opponent_rank": 3,
+    "won": false,
+    "maps_won": 0,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-10-06",
+    "opponent": "9z",
+    "opponent_rank": 24,
+    "won": false,
+    "maps_won": 0,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-10-05",
+    "opponent": "Aurora",
+    "opponent_rank": 4,
+    "won": false,
+    "maps_won": 1,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-10-04",
+    "opponent": "M80",
+    "opponent_rank": 25,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 0,
+    "lan": true
+   },
+   {
+    "date": "2026-10-03",
+    "opponent": "FURIA",
+    "opponent_rank": 3,
+    "won": false,
+    "maps_won": 0,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-09-12",
+    "opponent": "G2",
+    "opponent_rank": 11,
+    "won": false,
+    "maps_won": 1,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-09-10",
+    "opponent": "MIBR",
+    "opponent_rank": 19,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 0,
+    "lan": true
+   },
+   {
+    "date": "2026-09-09",
+    "opponent": "Astralis",
+    "opponent_rank": 14,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 0,
+    "lan": true
+   },
+   {
+    "date": "2026-09-08",
+    "opponent": "BIG",
+    "opponent_rank": 32,
+    "won": true,
+    "maps_won": 2,
+    "maps_lost": 0,
+    "lan": true
+   },
+   {
+    "date": "2026-08-14",
+    "opponent": "Ninjas in Pyjamas",
+    "opponent_rank": 15,
+    "won": false,
+    "maps_won": 0,
+    "maps_lost": 2,
+    "lan": true
+   },
+   {
+    "date": "2026-08-12",
+    "opponent": "FaZe",
+    "opponent_rank": 20,
+    "won": false,
+    "maps_won": 0,
+    "maps_lost": 1,
+    "lan": true
+   }
+  ],
+  "maps": {
+   "Nuke": {
+    "played": 5,
+    "winrate": 1.0
+   },
+   "Cache": {
+    "played": 5,
+    "winrate": 0.4
+   },
+   "Anubis": {
+    "played": 9,
+    "winrate": 0.556
+   },
+   "Ancient": {
+    "played": 6,
+    "winrate": 0.5
+   },
+   "Mirage": {
+    "played": 12,
+    "winrate": 0.583
+   },
+   "Dust2": {
+    "played": 6,
+    "winrate": 0.333
+   }
+  },
+  "lan_winrate": 0.5652173913043478,
+  "lan_matches": 23
+ },
+ "map_pool": [
+  "Ancient",
+  "Anubis",
+  "Cache",
+  "Dust2",
+  "Inferno",
+  "Mirage",
+  "Nuke"
+ ]
+}
