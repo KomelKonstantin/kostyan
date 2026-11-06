@@ -1,6 +1,6 @@
 {
  "_comment": "Собрано из открытого API bo3.gg 2026-11-06. Ранги — рейтинг bo3.gg, НЕ HLTV. Игроки, CT/T, pick/ban, пистолеты — нет данных.",
- "url": "https://bo3.gg/matches/parivision-vs-natus-vincere-06-11-2026",
+ "url": "https://www.hltv.org/matches/2400... (вето со скриншота HLTV)",
  "event": "IEM Beijing 2026, плей-офф, четвертьфинал",
  "date": "2026-11-06",
  "best_of": 3,
@@ -508,5 +508,19 @@
     "winrate": 0.429
    }
   }
- }
+ },
+ "veto": [
+  {
+   "name": "Mirage",
+   "picked_by": 2
+  },
+  {
+   "name": "Inferno",
+   "picked_by": 1
+  },
+  {
+   "name": "Ancient",
+   "picked_by": null
+  }
+ ]
 }
