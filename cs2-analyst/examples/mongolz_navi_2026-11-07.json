@@ -544,5 +544,19 @@
   "Inferno",
   "Mirage",
   "Nuke"
+ ],
+ "veto": [
+  {
+   "name": "Cache",
+   "picked_by": 2
+  },
+  {
+   "name": "Inferno",
+   "picked_by": 1
+  },
+  {
+   "name": "Mirage",
+   "picked_by": null
+  }
  ]
 }
